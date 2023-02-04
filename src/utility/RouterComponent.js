@@ -14,7 +14,7 @@ import CatDetails from "../Components/CatDetails"
          <Route path="/bollywood" element ={<Bollywood/>}/>
          <Route path="/technology" element ={<Technology/>}/>
          <Route path="/cat-list" element ={<Catlist/>}/>
-         <Route path="/cat-list/:catId" element ={<CatDetails/>}/>
+         <Route path="/bollywood/:catId" element ={<CatDetails/>}/>
 
      </Routes>
     </BrowserRouter>
