@@ -9,11 +9,13 @@
     },
     {
         id:"a23",
-        url:"https://i.ytimg.com/vi/HDdN7Oq-jlM/maxresdefault.jpg",        
+               
         height:200,
         width:200,
         content:"Harika",
         title:"uytfghjkljhgfd rtyuilkjhgfdrty uytrfghjk",
+        urlToImage:"https://images.wsj.net/im-712935/?width=2000&size=1.949",
+    url:"https://www.wsj.com/articles/ken-griffin-miami-historic-home-11675287621",
     },
     {
         id:"atc",
