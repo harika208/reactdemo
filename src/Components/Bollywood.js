@@ -29,8 +29,9 @@ const handleNavigation = (id, item) =>{
             <h4>{index+1}</h4>
           <p>item's id:{item.id}</p>
           <img onClick={()=> handleNavigation(item.id, item)} 
-          src={item.url} 
+          src={item.urlToImage} 
           alt={"catpicture"} width={500} height={600}/>
+          <a href={item.url}>clickme</a>
           <p>{item.title}</p>
           <p>{item.content}</p>
           
